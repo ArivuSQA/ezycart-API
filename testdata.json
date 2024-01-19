@@ -1,0 +1,12 @@
+ {
+ 	"BaseURL":"https://api-staging-ops01.retailetics.com",
+    "Pno":{"countryCode":"60","phoneNumber":"162455876"},
+    "ezylistURL":"https://staging.ezyretail.retailetics.com",
+    "ezyListLoginParam":{"email":"ezycartretailetics@gmail.com","type":"google"},
+    "MemberNo":{"memberNo":"4710000022691"},
+    "cartInfo":{"name": "","trolleyNo": "1","deviceId":"a34964275d76a23409343","merchantId":"7","outletId":"15","userId":"1","appMode": "","employeeId": ""},
+    "createCart":{"name": "Simans","trolleyNo": "0","deviceId":"a34964275d76a23409343","merchantId":"7","outletId":"15","userId":"0","appMode": "ezyCart","employeeId": "3","memberNumber":""},
+    "Barcode":"9556001129253",
+    "MerchartOutletID":{"merchantId":"7","outletId":"15"},
+    "token":""
+         } 
